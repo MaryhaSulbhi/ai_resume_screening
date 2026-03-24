@@ -142,7 +142,11 @@ http://localhost:8501
    * Feedback & interview questions
 
 ---
+## 🌐 Live Demo
 
+👉 *Add your deployed Streamlit link here*
+
+---
 
 ## 🚀 Future Improvements
 
@@ -162,7 +166,7 @@ http://localhost:8501
 
 ## 📜 License
 
-This project is for educational and portfolio purposes.
+This project is for educational purposes.
 
 ---
 
