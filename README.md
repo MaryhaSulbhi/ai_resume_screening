@@ -142,12 +142,6 @@ http://localhost:8501
    * Feedback & interview questions
 
 ---
-## 🌐 Live Demo
-
-👉 *Add your deployed Streamlit link here*
-
----
-
 ## 🚀 Future Improvements
 
 * 🔐 User Authentication System
